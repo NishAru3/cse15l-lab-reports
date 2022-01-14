@@ -1,4 +1,4 @@
-### Nishanth Arumugam Winter '22
+### Nishanth Arumugam Winter '22 Lab Reports
 ---
 Here are my current lab reports.
 
