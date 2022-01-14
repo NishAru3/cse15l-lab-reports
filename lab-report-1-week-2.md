@@ -1,3 +1,4 @@
+# Lab Report 1
 **Here is a tutorial for new CSE 15L students.**
 
 1. [Installing VScode](#1)
