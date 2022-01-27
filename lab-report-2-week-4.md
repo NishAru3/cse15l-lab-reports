@@ -1,5 +1,5 @@
 ### Lab Report 2
-**Three changes to the markdown parser to better implementation.**
+**Three changes to the markdown parser to create better implementation.**
 
 1. [Change 1: Infinite Loops](#1)
 2. [Change 2: Text Inbetween](#2)
