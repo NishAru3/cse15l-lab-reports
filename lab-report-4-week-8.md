@@ -5,7 +5,9 @@
 2. [Snippet #1](#2)
 3. [Snippet #2](#3)
 4. [Snippet #3](#4)
+
 ---
+
 ## <a name="1"></a> Group Links
 
 [Our Group](https://github.com/eNebulas/markdown-parse)
