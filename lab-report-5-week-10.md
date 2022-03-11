@@ -72,6 +72,8 @@
 - In our implementation, the issue with the code is how the parser succintly presents the link in the parenthesis. The tag needs to be broken down into its basic form, yet neither MarkdownParse does that.
 - This bug exists in the following location: 
 ![location2SS](location2SS.PNG)
+
 - By creating a new implementation of adding links that filters the results, this could be fixed
+
 ---
 Back to the [homepage](https://nisharu3.github.io/cse15l-lab-reports/)
